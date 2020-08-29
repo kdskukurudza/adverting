@@ -18,5 +18,13 @@ $(document).ready(function(){
     autoplaySpeed: 10000,
     prevArrow: $('.slider__button--previous'),
     nextArrow: $('.slider__button--next'),
+    // responsive: [      
+    //   {
+    //     breakpoint: 1880,
+    //     settings: { 
+    //       arrows: false,
+    //     }
+    //   }
+    // ]
   })
 })
